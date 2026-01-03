@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Wind",
+  "base_artist": "Akeboshi",
+  "createdAt": "2026-01-03T06:02:54.860814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ride Like the Wind",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/01_Ride_Like_the_Wind_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dust In the Wind",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Dust_In_the_Wind_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Straws In The Wind",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Straws_In_The_Wind_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Against the Wind",
+      "artist": "The Highwaymen",
+      "has_synced": false,
+      "path": "select/04_Against_the_Wind_The_Highwaymen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Any Old Wind That Blows",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/05_Any_Old_Wind_That_Blows_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Any Way The Wind Blows",
+      "artist": "Southern Pacific",
+      "has_synced": true,
+      "path": "select/06_Any_Way_The_Wind_Blows_Southern_Pacific.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Child of the Wind",
+      "artist": "Michaela Anne",
+      "has_synced": false,
+      "path": "select/07_Child_of_the_Wind_Michaela_Anne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Does The Wind Still Blow In Oklahoma",
+      "artist": "Reba McEntire feat. Ronnie Dunn",
+      "has_synced": true,
+      "path": "select/08_Does_The_Wind_Still_Blow_In_Oklahoma_Reba_McEntire_feat._Ronnie_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Does The Wind Still Blow In Oklahoma (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/09_Does_The_Wind_Still_Blow_In_Oklahoma_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seminole Wind",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/10_Seminole_Wind_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seminole Wind",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/11_Seminole_Wind_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk The Way The Wind Blows",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/12_Walk_The_Way_The_Wind_Blows_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Watch The Wind Blow By",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/13_Watch_The_Wind_Blow_By_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ride the Wild Wind",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Ride_the_Wild_Wind_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cold Wind Blows",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/15_Cold_Wind_Blows_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Night Wind Sent",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/16_Night_Wind_Sent_Blondie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wind",
+      "artist": "Akeboshi",
+      "has_synced": false,
+      "path": "select/pl_01_Wind_Akeboshi.txt"
+    }
+  ]
+}
